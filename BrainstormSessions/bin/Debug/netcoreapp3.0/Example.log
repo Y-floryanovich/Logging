@@ -1,0 +1,54 @@
+
+2022-02-14 01:45:49,811 [1] INFO  Microsoft.EntityFrameworkCore.Infrastructure [(null)] - Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+
+
+2022-02-14 01:45:50,336 [1] INFO  Microsoft.EntityFrameworkCore.Update [(null)] - Saved 2 entities to in-memory store.
+
+
+2022-02-14 01:45:50,666 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Now listening on: https://localhost:5001
+
+
+2022-02-14 01:45:50,671 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Now listening on: http://localhost:5000
+
+
+2022-02-14 01:45:50,677 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Application started. Press Ctrl+C to shut down.
+
+
+2022-02-14 01:45:50,683 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
+
+
+2022-02-14 01:45:50,688 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: C:\.NET Basic\Logging\Logging\BrainstormSessions
+
+
+2022-02-14 01:46:20,157 [1] INFO  Microsoft.EntityFrameworkCore.Infrastructure [(null)] - Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+
+
+2022-02-14 01:46:20,789 [1] INFO  Microsoft.EntityFrameworkCore.Update [(null)] - Saved 2 entities to in-memory store.
+
+
+2022-02-14 01:46:20,992 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Application started. Press Ctrl+C to shut down.
+
+
+2022-02-14 01:46:20,999 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
+
+
+2022-02-14 01:46:21,015 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: C:\.NET Basic\Logging\Logging\BrainstormSessions
+
+
+2022-02-14 01:46:25,994 [5] INFO  Microsoft.EntityFrameworkCore.Infrastructure [(null)] - Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+
+
+2022-02-14 01:46:26,009 [5] INFO  BrainstormSessions.Logger.LogHandler [(null)] - Method Index is completed
+
+
+2022-02-14 01:46:31,996 [15] INFO  Microsoft.EntityFrameworkCore.Infrastructure [(null)] - Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+
+
+2022-02-14 01:46:32,002 [15] INFO  Microsoft.EntityFrameworkCore.Update [(null)] - Saved 1 entities to in-memory store.
+
+
+2022-02-14 01:46:37,872 [17] INFO  Microsoft.EntityFrameworkCore.Infrastructure [(null)] - Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+
+
+2022-02-14 01:46:37,874 [17] INFO  BrainstormSessions.Logger.LogHandler [(null)] - Method Index is completed
+
